@@ -1,7 +1,7 @@
 # fontend
 repository perjalanan menuju seorang wed developer
--belajar html
--belajar css dasar 
--belajar css layoting 
--belajar css3
+-belajar html "selesai"
+-belajar css dasar "selesai"
+-belajar css layoting "selesai"
+-belajar css3 "selesai"
 -blajar css boodstrap
